@@ -36,3 +36,5 @@ print(favorite_color)
 
 print("The new dictionnary is")
 print(favorite_color)
+
+# testint git connection
