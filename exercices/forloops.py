@@ -23,3 +23,6 @@ for key,value in favorite_color.items():
 print("The values are :")
 for key,value in favorite_color.items():
 	print(value)
+print("\n")
+for key,value in favorite_color.items():
+	print(key + " likes " + value + " color!")
